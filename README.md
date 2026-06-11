@@ -42,9 +42,9 @@ python -m unittest discover tests
 ```
 
 ## Integrantes
-- Kaike
-- Henrique
-- Gabriel
-- Duda
-- Nelson
-- Esther
+- Kaike Machado 
+- Henrique Silva 
+- Gabriel dos Anjos 
+- Maria Eduarda Gobira
+- João Nelson
+- Esther Mendonça
